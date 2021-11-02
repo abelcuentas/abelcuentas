@@ -42,7 +42,7 @@ When I'm not coding or attacking systems, I am probably reading, watching movies
 
 ## Languages 🤓
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelcuentas)](https://github.com/abelcuentas/github-readme-stats)
-https://github-readme-stats.vercel.app/api/top-langs/?username=abelcuentas
+
 
 <br>
 
