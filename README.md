@@ -42,6 +42,7 @@ When I'm not coding or attacking systems, I am probably reading, watching movies
 
 ## Languages 🤓
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelcuentas)](https://github.com/abelcuentas/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=abelcuentas
 
 <br>
 
@@ -52,4 +53,4 @@ When I'm not coding or attacking systems, I am probably reading, watching movies
 <br>
 
 ## My GitHub Stats 😎
-![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=abelcuentas&theme=cobalt&show_icons=true)
+![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abelcuentas&theme=cobalt&show_icons=true)
