@@ -46,9 +46,8 @@ When I'm not coding or attacking systems, I am probably reading, watching movies
 <br>
 
 ## My Recent Blog posts ✍️
-<!--
-- [8 Reasons Why a Good Web Design is Important for Your Business](https://thecodingcompany.hashnode.dev/8-reasons-why-a-good-web-design-is-important-for-your-business)
--->
+- [Windows Task-Manager and Python](https://infosecoding.hashnode.dev/windows-task-manager-and-python)
+
 
 <br>
 
